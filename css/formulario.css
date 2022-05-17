@@ -1,0 +1,52 @@
+body{
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(../img/e.png);
+}
+.container {
+    width: 600px;  background: #24303c; padding: 30px;
+    margin: auto; margin-top: 20px; border-radius: 4px; font-family: 'calibri';
+    color: white; box-shadow: 7px 13px 37px #000;
+  
+
+  } form h3{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 35px ;
+    border: 3px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(245, 2, 2);
+    text-shadow: 
+    5px 5px 5px rgb(30, 255, 0),
+    10px 10px 5px yellow,
+    15px 15px 5px blue,
+    15px 15px 2px rgb(0, 0, 0);
+
+}.form-control{
+
+    background-color: #24303c;
+    width: 100%;
+    height: 27px;
+    color: aliceblue;
+    font-size: 16px;
+}
+  .form-group{
+    width: 100%;  background: #24303c; padding: 20px;
+    border-radius: 6px; margin-bottom: 16px; border: 2px solid #1f53c5;
+    font-family: 'calibri'; font-size: 20px;  color: white;
+    
+  }.btn-primary{
+    width: 100%;  background: #1f53c5;  border: none;
+    padding: 12px;  color: white; margin: 16px 0;font-size: 20px; align-items: center;
+    font-family: Arial, Helvetica, sans-serifs;
+  }.custom-select{
+    background-color: #24303c;
+    width: 100%;
+    height: 27px;
+    color: rgb(255, 255, 255);
+  }
+
+  
+ 

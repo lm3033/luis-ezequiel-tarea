@@ -1,0 +1,16 @@
+h6{
+    margin-top: 150px;
+    font-size: 85PX;
+    text-align: center;
+    border-color: black solid;
+    text-decoration: double;
+    font-family: Algerian;
+    color:rgb(244, 244, 244) ;
+    text-shadow: 
+    10px 10px 7px red,
+    20px 20px 7px yellow,
+    24px 24px 7px blue;
+    ;
+}body{
+    background-image: url(../img/f.jpg);
+}
